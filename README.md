@@ -1,4 +1,4 @@
-# DIIG Data Challenge '24
+# DIIG Data Challenge F'24
 This project was submitted as part of the application process for the Duke Impact Investing Group (DIIG).  The goal was to perform a demographic and attrition analysis on a provided dataset to identify key factors contributing to employee turnover at IBM.
 
 ## Features
@@ -84,7 +84,7 @@ The project is implemented as a Jupyter Notebook (`demographic_anal.ipynb`).  It
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/IslamTayeb/DIIG-data-challenge-24.git
    ```
 2. **Install dependencies:**
     ```bash
